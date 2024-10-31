@@ -1,0 +1,217 @@
+/*
+=======================================================================
+    Listing Rules
+=======================================================================
+*/
+#product-theme-1 div,
+#product-theme-1 span,
+#product-theme-1 applet,
+#product-theme-1 object,
+#product-theme-1 iframe,
+#product-theme-1 h1,
+#product-theme-1 h2,
+#product-theme-1 h3,
+#product-theme-1 h4,
+#product-theme-1 h5,
+#product-theme-1 h6,
+#product-theme-1 p,
+#product-theme-1 blockquote,
+#product-theme-1 pre,
+#product-theme-1 a,
+#product-theme-1 abbr,
+#product-theme-1 acronym,
+#product-theme-1 address,
+#product-theme-1 big,
+#product-theme-1 cite,
+#product-theme-1 code,
+#product-theme-1 del,
+#product-theme-1 dfn,
+#product-theme-1 em,
+#product-theme-1 font,
+#product-theme-1 img,
+#product-theme-1 ins,
+#product-theme-1 kbd,
+#product-theme-1 q,
+#product-theme-1 s,
+#product-theme-1 samp,
+#product-theme-1 small,
+#product-theme-1 strike,
+#product-theme-1 strong,
+#product-theme-1 sub,
+#product-theme-1 sup,
+#product-theme-1 tt,
+#product-theme-1 var,
+#product-theme-1 b,
+#product-theme-1 u,
+#product-theme-1 i,
+#product-theme-1 center,
+#product-theme-1 dl,
+#product-theme-1 dt,
+#product-theme-1 dd,
+#product-theme-1 ol,
+#product-theme-1 ul,
+#product-theme-1 li,
+#product-theme-1 fieldset,
+#product-theme-1 form,
+#product-theme-1 label,
+#product-theme-1 legend,
+#product-theme-1 table,
+#product-theme-1 caption,
+#product-theme-1 tbody,
+#product-theme-1 tfoot,
+#product-theme-1 thead,
+#product-theme-1 tr,
+#product-theme-1 th,
+#product-theme-1 td {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	outline: 0px;
+	font-size: 11px;
+	line-height:normal;
+	vertical-align: baseline;
+	background: transparent;
+	
+	-webkit-margin-before: 0px;
+	-webkit-margin-after: 0px;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+}
+
+#product-theme-1 .listing {
+    float:left;
+}
+#product-theme-1 .listing ul{
+    float:left;
+    list-style:none;
+}
+#product-theme-1 .listing ul li{
+    float:left;
+    width:158px;
+    margin-bottom:10px;
+    margin-right:10px;
+    background:none;
+}
+#product-theme-1 .listing ul li.last{
+    margin-right:0px;
+}
+#product-theme-1 .listing ul li .thumb{
+    
+}
+#product-theme-1 .listing ul li .thumb img{
+    max-width:158px;
+    max-height:145px;
+}
+#product-theme-1 .listing span.sale{
+    position:absolute;
+    height:29px;
+    width:39px;
+    padding:15px 10px;
+    background-image:url(https://qody.s3.amazonaws.com/connector_plugin/products/theme-1/sale.gif);
+    background-position:left;
+    background-repeat:no-repeat;
+    color:#FFF;
+    margin:-198px 0px 0px 0px;
+}
+#product-theme-1 .listing span.new{
+    position:absolute;
+    height:29px;
+    width:39px;
+    padding:15px 10px;
+    background-image:url(https://qody.s3.amazonaws.com/connector_plugin/products/theme-1/new.gif);
+    background-position:left;
+    background-repeat:no-repeat;
+    color:#FFF;
+    float:left;
+    margin:-198px 0px 0px 0px;
+}
+#product-theme-1 .listing a.cart{
+    position:absolute;
+    height:23px;
+    width:22px;
+    padding:0px 0px;
+    background-image:url(https://qody.s3.amazonaws.com/connector_plugin/products/theme-1/carticon.gif);
+    background-position:left;
+    background-repeat:no-repeat;
+    color:#FFF;
+    float:left;
+    margin:-192px 0px 0px 130px;
+}
+#product-theme-1 .listing ul li a.title{
+    padding:5px 0px 2px 0px;
+    width:158px;
+    float:left;
+    text-align:center;
+}
+#product-theme-1 .listing ul li p.price{
+    width:158px;
+    font-size:12px;
+    text-align:center;
+}
+
+#product-theme-1 .listing ul li.big{
+    float:left;
+    width:698px;
+    height:205px;
+    margin-bottom:20px;
+    margin-right:20px;
+    border:#cdcdcd solid 1px;
+    background-color:#fff;
+}
+#product-theme-1 .big_li_sec {
+    width:158px;
+    float:left;
+    height:205px;
+}
+#product-theme-1 .big_li_sec_right {
+    width:499px;
+    border-left:#cdcdcd solid 1px;
+    float:left;
+    height:165px;
+    padding:20px;
+    background-image:url(https://qody.s3.amazonaws.com/connector_plugin/products/theme-1/big_sec_bg.gif);
+    background-repeat:repeat-x;
+    background-position:bottom;
+}
+#product-theme-1 a.addcart {
+    float:left;
+    color:#FFF;
+    text-transform:uppercase;
+    width:82px;
+    height:19px;
+    padding:4px 0px 0px 34px;
+    display:inline-block;
+    background-image:url(https://qody.s3.amazonaws.com/connector_plugin/products/theme-1/addcart.gif);
+    background-repeat:no-repeat;
+}
+#product-theme-1 .big_li_sec_right .bigprice{
+    float:left;
+    margin-right:50px;
+}
+#product-theme-1 .big_li_sec_right ul.postin{
+    float:left;
+    list-style:none;
+}
+#product-theme-1 .big_li_sec_right ul.postin li{
+    width:auto;
+    height:auto;
+    border:none;
+    background-color:transparent;
+    padding:0px 10px 0px 0px;
+    margin:0px;
+    background-image:url(https://qody.s3.amazonaws.com/connector_plugin/products/theme-1/postin.gif);
+    background-repeat:no-repeat;
+    background-position:right;
+}
+#product-theme-1 .big_li_sec_right ul.postin li.last{
+    background-image:none;
+}
+#product-theme-1 .big_li_sec_right ul.postin li a{
+    padding:0px 10px;
+}
+#product-theme-1 .big_li_sec_right h2{
+    padding:0px 0px 10px 0px;
+}
+#product-theme-1 .big_li_sec_right p{
+    padding:3px 0px 10px 0px;
+}
